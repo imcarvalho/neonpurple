@@ -9,9 +9,14 @@ I'm also using the [Spaceship promt](https://github.com/denysdovhan/spaceship-pr
 
 ## iTerm2
 
-Install [neonpurple.itermcolors](https://github.com/imcarvalho/neonpurple/releases/download/1.0.0/neonpurple.itermcolors).
-
-More options coming soon.
+* Download [neonpurple.itermcolors](https://github.com/imcarvalho/neonpurple/releases/download/1.0.0/neonpurple.itermcolors).
+* Launch iTerm
+* Type CMD+i
+* Navigate to Colors tab
+* Click on Load Presets
+* Click on Import
+* Select the .itermcolors file
+* Click on Load Presets and choose a color scheme
 
 ## Colors
 
