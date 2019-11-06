@@ -9,7 +9,7 @@ I'm also using the [Spaceship promt](https://github.com/denysdovhan/spaceship-pr
 
 ## iTerm2
 
-Install [neonpurple.itermcolors](https://raw.githubusercontent.com/imcarvalho/neonpurple/master/neonpurple.itermcolors).
+Install [neonpurple.itermcolors](https://github.com/imcarvalho/neonpurple/releases/download/1.0.0/neonpurple.itermcolors).
 
 More options coming soon.
 
