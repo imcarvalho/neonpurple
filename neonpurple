@@ -1,0 +1,25 @@
+# neonpurple theme for Ghostty 
+
+palette = 0=#000000
+palette = 1=#CD0D76
+palette = 2=#03EBA5
+palette = 3=#FFFA6A
+palette = 4=#00BFFF
+palette = 5=#FF00E0
+palette = 6=#9AA5ED
+palette = 7=#FFFFFF
+palette = 8=#A8FCFF
+palette = 9=#FF0DA5
+palette = 10=#00FFB6
+palette = 11=#FFF787
+palette = 12=#1BCCFD
+palette = 13=#FF00F8
+palette = 14=#A6B6FF
+palette = 15=#FFFFFF
+ 
+background = #291B47
+foreground = #E5E5E5
+cursor-color = #21F6BC
+cursor-text = #FFFFFF
+selection-background = #C1DEFF
+selection-foreground = #000000
