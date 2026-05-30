@@ -4,7 +4,7 @@ A Neon Purple terminal theme, matching the [VS Code theme Noctis Uva](https://ma
 
 If, like me, you love the synthwave aesthetic and over the top colors while coding, I think you'll enjoy this theme as well ❤️
 
-I'm also using the [Spaceship promt](https://github.com/denysdovhan/spaceship-prompt) with the Minimal theme on iTerm2 enabled.
+I'm also using the [Spaceship promt](https://github.com/denysdovhan/spaceship-prompt) with the Minimal theme on iTerm2 enabled on the screenshot below.
 
 ![Neon Purple Terminal Color Scheme](neonpurple.png)
 
@@ -18,6 +18,13 @@ I'm also using the [Spaceship promt](https://github.com/denysdovhan/spaceship-pr
 - Click on Import
 - Select the .itermcolors file
 - Click on Load Presets and choose a color scheme
+
+## Ghostty
+
+- Download [neonpurple](https://raw.githubusercontent.com/imcarvalho/neonpurple/main/neonpurple).
+- Move the file to `~/.config/ghostty/themes/`
+- Add `theme = neonpurple` to your Ghostty config file (`~/.config/ghostty/config`)
+- Restart Ghostty
 
 ## Colors
 
